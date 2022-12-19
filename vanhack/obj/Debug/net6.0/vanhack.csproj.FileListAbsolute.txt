@@ -1,0 +1,15 @@
+C:\Users\jgass\source\repos\vanhack\vanhack\bin\Debug\net6.0\vanhack.exe
+C:\Users\jgass\source\repos\vanhack\vanhack\bin\Debug\net6.0\vanhack.deps.json
+C:\Users\jgass\source\repos\vanhack\vanhack\bin\Debug\net6.0\vanhack.runtimeconfig.json
+C:\Users\jgass\source\repos\vanhack\vanhack\bin\Debug\net6.0\vanhack.dll
+C:\Users\jgass\source\repos\vanhack\vanhack\bin\Debug\net6.0\vanhack.pdb
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.csproj.AssemblyReference.cache
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.AssemblyInfoInputs.cache
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.AssemblyInfo.cs
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.csproj.CoreCompileInputs.cache
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.dll
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\refint\vanhack.dll
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.pdb
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\vanhack.genruntimeconfig.cache
+C:\Users\jgass\source\repos\vanhack\vanhack\obj\Debug\net6.0\ref\vanhack.dll
