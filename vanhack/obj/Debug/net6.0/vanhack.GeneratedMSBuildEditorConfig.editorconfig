@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = vanhack
-build_property.ProjectDir = C:\Users\jgass\source\repos\vanhack\vanhack\
+build_property.ProjectDir = C:\Users\jgass\Documents\GitHub\vanhack-typescript\vanhack-csharp\vanhack\

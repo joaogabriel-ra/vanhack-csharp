@@ -79,33 +79,5 @@ namespace vanhack // Note: actual namespace depends on the project name.
 
             return rows;
         }
-
-        private static string HandleAlternateQuotes(string fieldValue, string quote)
-        {
-            var indexFirstQuote = fieldValue.IndexOf(quote);
-
-            if (indexFirstQuote >= 0)
-                fieldValue = fieldValue.Remove(indexFirstQuote, quote.Length).Insert(indexFirstQuote, "");
-
-            var indexLastQuote = fieldValue.LastIndexOf(quote);
-
-            if (indexLastQuote >= 0)
-                fieldValue = fieldValue.Remove(indexLastQuote, quote.Length).Insert(indexLastQuote, "");
-
-            var flagAlternateQuotes = true;
-
-            if (flagAlternateQuotes && fieldValue.Contains(string.Concat(quote, quote)))
-            {
-                fieldValue = fieldValue.Replace(string.Concat(quote, quote), quote);
-                flagAlternateQuotes = false;
-            }
-
-            if (flagAlternateQuotes && fieldValue.Contains(quote))
-            {
-                fieldValue = fieldValue.Replace(quote, string.Concat(quote, quote));
-            }
-
-            return fieldValue;
-        }
     }
 }

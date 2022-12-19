@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JB7GYEkEXsFRVcc6u/dSHNzUVhdbOmOLn/rsBkmoEdGrnh2em9ODKzkRPOUbZYbYjBZ2PhRuv+zWcOhICbwq1Q==",
+  "dgSpecHash": "iEqAuNk3uYT+xiJGS4/uXu5l7jsPfGk6Jh/64sXZLqiIT6z+CEMsFhf/c46AAfXUTvimGX9TgNAHqEqulX2jog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhackTests\\vanhackTests.csproj",
+  "projectFilePath": "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhackTests\\vanhackTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jgass\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\jgass\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

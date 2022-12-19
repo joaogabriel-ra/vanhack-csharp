@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhack\\vanhack.csproj": {}
+    "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhack\\vanhack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhack\\vanhack.csproj": {
+    "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhack\\vanhack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhack\\vanhack.csproj",
+        "projectUniqueName": "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhack\\vanhack.csproj",
         "projectName": "vanhack",
-        "projectPath": "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhack\\vanhack.csproj",
+        "projectPath": "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhack\\vanhack.csproj",
         "packagesPath": "C:\\Users\\jgass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jgass\\source\\repos\\vanhack\\vanhack\\obj\\",
+        "outputPath": "C:\\Users\\jgass\\Documents\\GitHub\\vanhack-typescript\\vanhack-csharp\\vanhack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jgass\\AppData\\Roaming\\NuGet\\NuGet.Config",
