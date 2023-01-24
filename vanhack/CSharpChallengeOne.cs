@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace vanhack // Note: actual namespace depends on the project name.
+namespace vanhack
 {
     public class CSharpChallengeOne
     {
