@@ -33,31 +33,26 @@ namespace vanhack // Note: actual namespace depends on the project name.
                     {
                         if (nextChar == quote[0])
                         {
-                            // escaped quote character
                             currentField.Append(quote[0]);
                             i++;
                         }
                         else
                         {
-                            // end of quoted field
                             inQuotedField = false;
                         }
                     }
                     else
                     {
-                        // start of quoted field
                         inQuotedField = true;
                     }
                 }
                 else if (currentChar == separator[0] && !inQuotedField)
                 {
-                    // end of field
                     currentRow.Add(currentField.ToString());
                     currentField.Clear();
                 }
                 else if (currentChar == '\n' && !inQuotedField)
                 {
-                    // end of row
                     currentRow.Add(currentField.ToString());
                     currentField.Clear();
                     rows.Add(currentRow);
@@ -65,12 +60,10 @@ namespace vanhack // Note: actual namespace depends on the project name.
                 }
                 else
                 {
-                    // part of field value
                     currentField.Append(currentChar);
                 }
             }
 
-            // add last field and row if necessary
             if (currentField.Length > 0 || currentRow.Count > 0)
             {
                 currentRow.Add(currentField.ToString());
